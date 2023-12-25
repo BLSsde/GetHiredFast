@@ -16,7 +16,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/GetHiredFast.git
+git clone https://github.com/BLSsde/GetHiredFast.git
 Configure MongoDB Atlas:
 
 Create an account on MongoDB Atlas.
